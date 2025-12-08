@@ -23,7 +23,7 @@
 
 </td>
     <td>
-      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="200" />
+      <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="250" />
     </td>
   </tr>
 </table>
@@ -43,7 +43,7 @@
 ## 🎧 Coding Mode: Always Learning, Always Building
 
 <p align="center">
-  <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="200">
+  <img src="https://camo.githubusercontent.com/d399b5adccfc6ebac083d14c7825731b09e3244e274657546d2e4ad670e911bd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966" width="400">
 
   <!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo0cTM4Y2twdm16Zm45bWhzY21haGc3YXdkZXcwNXZobjZ0eWJkNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp" width="350" />-->
 </p> 
