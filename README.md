@@ -43,8 +43,10 @@
 ## 🎧 Coding Mode: Always Learning, Always Building
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo0cTM4Y2twdm16Zm45bWhzY21haGc3YXdkZXcwNXZobjZ0eWJkNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp" width="350" />
-</p>
+  <img src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif" width="200">
+
+  <!-- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmo0cTM4Y2twdm16Zm45bWhzY21haGc3YXdkZXcwNXZobjZ0eWJkNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp" width="350" />-->
+</p> 
 
 ---
 
